@@ -10,6 +10,7 @@ Navigate to the Admission_Predict_main directory: cd ./Admission_Predict_main
 Run the Python application: python app.py
 # Dependencies
 Python 3.x
+
 Libraries: numpy, pandas, flask
 # Usage
 Once the application is running, access the provided URL to interact with the predictive model. Users can input their academic credentials and receive personalized admission probability estimates for different university classes.

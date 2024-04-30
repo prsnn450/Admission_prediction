@@ -6,6 +6,7 @@ This project aims to develop a predictive model for estimating admission probabi
 To run the code, follow these steps:
 
 Navigate to the Admission_Predict_main directory: cd ./Admission_Predict_main
+
 Run the Python application: python app.py
 # Dependencies
 Python 3.x
